@@ -1,0 +1,10 @@
+C:/Users/cmunoz/intro_dev/programming-intro-lab-14-Mxye28/data/users.csv
+C:/Users/cmunoz/intro_dev/programming-intro-lab-14-Mxye28/data/posts.csv
+C:/Users/cmunoz/intro_dev/programming-intro-lab-14-Mxye28/data/comentarios.csv
+
+C:/Users/cmunoz/intro_dev/programming-intro-lab-14-Mxye28/migrations/0_createDatabase.sql
+C:/Users/cmunoz/intro_dev/programming-intro-lab-14-Mxye28/migrations/1_createUsersTable.sql
+C:/Users/cmunoz/intro_dev/programming-intro-lab-14-Mxye28/migrations/2_createPostsTable.sql
+C:/Users/cmunoz/intro_dev/programming-intro-lab-14-Mxye28/migrations/3_createComments.sql
+C:/Users/cmunoz/intro_dev/programming-intro-lab-14-Mxye28/migrations/4_seedData.sql
+C:/Users/cmunoz/intro_dev/programming-intro-lab-14-Mxye28/queries/5_posts-with-users.sql
