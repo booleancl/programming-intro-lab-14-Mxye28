@@ -1,6 +1,11 @@
 \c blog
 
+<<<<<<< HEAD
 DROP TABLE IF EXISTS comments;
+=======
+
+DROP TABLE comments;
+>>>>>>> e92dad77024a448b4f2789035a75265c630e618a
 
 CREATE TABLE comments(
     id INTEGER,
